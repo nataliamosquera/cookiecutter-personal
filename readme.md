@@ -1,0 +1,1 @@
+Plantilla del curso de configuiración profesional de entorno de trabajo para ciencia de datos
